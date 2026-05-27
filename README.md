@@ -7,6 +7,8 @@
 ### Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/smriti30scope/) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/S26ae) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/smri.tiie?igsh=MWRsc2Z0ZDV6MWNwZg==L) [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/s.ae_88203) &nbsp;&nbsp; ☕ *Converting caffeine into clean, working code.*
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhrcjBoaTVpb2VvbThqbGN3Nnl4cWJweWF6NTFkMjk5a2h3eXlzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" align="right" width="260" height="auto" style="margin-left: 20px; margin-top: 15px;" />
+
 ### Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -36,3 +38,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
