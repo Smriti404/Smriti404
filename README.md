@@ -5,8 +5,7 @@
 🎓 Pre Final Year Undergraduate Student 
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti30scope/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/S26ae)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/smriti30scope/) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/S26ae) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/smri.tiie?igsh=MWRsc2Z0ZDV6MWNwZg==L) [![Discord](https://skillicons.dev/icons?i=discord)](YOUR_DISCORD_URL) &nbsp;&nbsp; ☕ *Converting caffeine into clean, working code.*
 
 ### Tech Stack:
 
