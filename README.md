@@ -1,7 +1,8 @@
 # About Me:
 
 👋 Hi, I'm Smriti! 
-🎓 Final Year Undergraduate Student (or your current status)
+
+🎓 Pre Final Year Undergraduate Student 
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti30scope/)
